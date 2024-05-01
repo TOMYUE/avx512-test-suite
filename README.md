@@ -64,15 +64,15 @@ PASSED
 
 ```shell
 > ./run_test.sh /home/user/Pin/pin -t inscount.so --
-[INFO]: Running /home/user/avx512-test-suite/ELFS/AVX512F-abs
+[INFO]: Running /home/user/avx512-test-suite/ELFs/AVX512F-abs
 PASSED
-[INFO]: Running /home/user/avx512-test-suite/ELFS/AVX512F-alignr
+[INFO]: Running /home/user/avx512-test-suite/ELFs/AVX512F-alignr
 PASSED
-[INFO]: Running /home/user/avx512-test-suite/ELFS/AVX512F-broadcast
+[INFO]: Running /home/user/avx512-test-suite/ELFs/AVX512F-broadcast
 PASSED
-[INFO]: Running /home/user/avx512-test-suite/ELFS/AVX512F-casts
+[INFO]: Running /home/user/avx512-test-suite/ELFs/AVX512F-casts
 PASSED
-[INFO]: Running /home/user/avx512-test-suite/ELFS/AVX512F-compress
+[INFO]: Running /home/user/avx512-test-suite/ELFs/AVX512F-compress
 PASSED
 .......
 ```
