@@ -19,7 +19,7 @@ Unit testcase souce files lies in each subdirectory, corresponding compiled ELFs
 │   └── build
 ├── AVX512VL
 │   └── build
-└── ELFS
+└── ELFs
 ```
 
 ### Usage
